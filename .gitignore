@@ -1,0 +1,24 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+appstore
+#android git ignore
+*.iml
+android/.gradle
+android/local.properties
+android/.idea/workspace.xml
+android/.idea/libraries
+android/.DS_Store
+android/app/build
+android/build
+android/captures
+android/.externalNativeBuild
+android/app/release/
+android/.idea/caches/
+
+ios/build
+ios/Pods
